@@ -1,0 +1,7 @@
+Requirement:
+# Create a pcakge called Pack1
+# Inside Pack1 package, create 2 modules module1 and module2
+# Create a function display() in module1
+# Create a function show() in module2
+# Create another module called client outside of the package Pack1
+# Invoke module functions display() and show() in client module
