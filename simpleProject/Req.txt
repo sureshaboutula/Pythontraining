@@ -1,0 +1,6 @@
+# Create package1 package
+# Create module1 with display() function within package1
+# Create package2 package inside package1
+# Create module2 with show() function within package2
+# create an individual module client
+# Invoke package1 and package2 modules from client module
